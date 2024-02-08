@@ -6,6 +6,7 @@ public class test1 {
 		// TODO Auto-generated method stub
 		System.out.println("master first commit");
 		System.out.println("tester first commit");
+		System.out.println("tester second commit");
 	}
 
 }
